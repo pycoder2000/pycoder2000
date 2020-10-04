@@ -25,13 +25,13 @@
 - ⚡ Fun fact: ... data is everything in modern world
 
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Joshi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedant-joshi-48a716180/)](https://www.linkedin.com/in/vedant-joshi-48a716180/) [![Twitter Badge](http://img.shields.io/badge/-@JVedant2308-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/JVedant2308)](https://twitter.com/JVedant2308) [![GitHub followers](https://img.shields.io/github/followers/JVedant?label=Follow&style=social)](https://github.com/JVedant/?tab=follow) [![Kaggle](https://img.shields.io/badge/-Vedant%20Joshi-blue?style=social&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/jvedant/)](https://www.kaggle.com/jvedant)[![Gmail Badge](https://img.shields.io/badge/-jvedant.dev@gmail.com-red?style=social&logo=Gmail&logoColor=blue)](mailto:jvedant.dev@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Joshi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedant-joshi-48a716180/)](https://www.linkedin.com/in/vedant-joshi-48a716180/) [![Twitter Badge](http://img.shields.io/badge/-@JVedant2308-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/JVedant2308)](https://twitter.com/JVedant2308) [![GitHub followers](https://img.shields.io/github/followers/pycoder2000?label=Follow&style=social)](https://github.com/pycoder2000/?tab=follow) [![Kaggle](https://img.shields.io/badge/-Vedant%20Joshi-blue?style=social&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/pycoder2000/)](https://www.kaggle.com/pycoder2000)[![Gmail Badge](https://img.shields.io/badge/-pycoder2000.dev@gmail.com-red?style=social&logo=Gmail&logoColor=blue)](mailto:pycoder2000.dev@gmail.com)
 
 ---
 
 ## On a goal to maximize my contribution on OpenSource
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=JVedant&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JVedant&hide_langs_below=.25&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pycoder2000&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pycoder2000&hide_langs_below=.25&theme=radical">
 </p>
