@@ -89,29 +89,29 @@ or use it. It helps me a lot.
 <IMG src="https://github.com/pycoder2000/pycoder2000/blob/main/images/coffee.png" class="floatRight" height="275"/>
 <table>
 <tr>
-<td><a href="https://linkedin.com/in/https://www.linkedin.com/in/parth-desai-2bb1b0160/" target="_blank">
+<td><a href="https://www.linkedin.com/in/parth-desai-2bb1b0160/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a></td>
-<td><a href="https://twitter.com/https://twitter.com/lone_Musk" target="_blank">
+<td><a href="https://twitter.com/lone_Musk" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="https://github.com/https://github.com/pycoder2000/?tab=follow" target="_blank">
+<a href="github.com/pycoder2000/?tab=follow" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a></td>
-<td><a href="https://www.kaggle.com/https://www.kaggle.com/desaiparth2000" target="_blank">
+<td><a href="https://www.kaggle.com/desaiparth2000" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a></td>
 </tr>
 <tr>
 <td>
-<a href="https://instagram.com/https://www.instagram.com/highapostrophe/" target="_blank">
+<a href="https://www.instagram.com/highapostrophe/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a></td>
 <td>
-<a href="https://dev.to/https://dev.to/pycoder2000" target="_blank">
+<a href="https://dev.to/pycoder2000" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a></td>
 </tr>
