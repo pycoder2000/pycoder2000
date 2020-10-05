@@ -2,9 +2,7 @@
 Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
-<style type = "text/css">
-  .floatRight{float:right;margin-left:20px}
-</style>
+
 
 <a href="https://desaiparth2000.wixsite.com/parthdesai"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/Annotation%202020-10-05%20202334.png" width="900"></a>
 
