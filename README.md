@@ -2,6 +2,7 @@
 Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <a href="https://desaiparth2000.wixsite.com/parthdesai"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/Annotation%202020-10-05%20202334.png" width="900"></a>
 
@@ -10,7 +11,8 @@ or use it. It helps me a lot.
 </div>
 <h3>A Machine Learning Engineer and Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.</h3>
 <div align = "center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="left" />
+<a class="github-button" href="https://github.com/pycoder2000" aria-label="Follow @pycoder2000 on GitHub" align = "right">Follow</a>
 </div>
 
 ---
