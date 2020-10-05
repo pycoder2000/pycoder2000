@@ -5,7 +5,7 @@ or use it. It helps me a lot.
 <a href="https://desaiparth2000.wixsite.com/parthdesai"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/Annotation%202020-10-05%20202334.png" width="900"></a>
 
 ### Hi there, this is Parth from India.
-### A Machine Learning Engineer and Data-Science enthusiast 👋 👨🏻‍💻 
+### A Machine Learning Engineer and Data-Science enthusiast who is passionate about Mathematics :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 ---
 
@@ -40,5 +40,4 @@ or use it. It helps me a lot.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=pycoder2000&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pycoder2000&hide_langs_below=.25&theme=radical">
 </p>
