@@ -177,5 +177,7 @@ or use it. It helps me a lot.
   <a href="https://desaiparth2000.wixsite.com/parthdesai"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/python.png" align="right" height="230" /></a>
 </p>
 
-<img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="30%" height="30%">
+<div align = "center">
+<img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="10%" height="10%">
+</div>
 
