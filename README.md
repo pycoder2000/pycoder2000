@@ -122,6 +122,11 @@ or use it. It helps me a lot.
 <a href="https://medium.com/https://medium.com/@desaiparth2000" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" /></a>
 </a></td>
+<td>
+<a href="https://stackoverflow.com/users/https://dev.to/pycoder2000" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+</td>
 </tr>
 </table>
 <br/>
@@ -135,8 +140,6 @@ or use it. It helps me a lot.
 <code><a href="https://www.mysql.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-
-<img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="40%" height="20%">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Parth%20Desai-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parth-desai-2bb1b0160/)](https://www.linkedin.com/in/parth-desai-2bb1b0160/) [![Twitter Badge](http://img.shields.io/badge/-@lone_Musk-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/lone_Musk)](https://twitter.com/lone_Musk) [![GitHub followers](https://img.shields.io/github/followers/pycoder2000?label=Follow&style=social)](https://github.com/pycoder2000/?tab=follow) [![Kaggle](https://img.shields.io/badge/-Parth%20Desai-blue?style=social&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/desaiparth2000/)](https://www.kaggle.com/desaiparth2000)[![Gmail Badge](https://img.shields.io/badge/-pycoder2000.dev@gmail.com-red?style=social&logo=Gmail&logoColor=blue)](mailto:pycoder2000.dev@gmail.com)
 
