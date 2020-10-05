@@ -11,7 +11,8 @@ or use it. It helps me a lot.
 <h3>A Machine Learning Engineer and Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.</h3>
 <i>Please go through my profile and feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Also you can <a href="mailto:desaiparth2000@gmail.com" target="_blank">mail me</a> regarding any issue</i>
 
-<br>
+---
+
 <table border="1" width="100%" align="center" style="margin: 0px;">
   <tr>
     <td valign="top">
@@ -26,7 +27,7 @@ or use it. It helps me a lot.
     </td>
     <td valign="top">
       <div align="center">
-        <a href="https://www.linkedin.com/in/parth-desai-2bb1b0160/"><img src="https://img.shields.io/badge/-Parth%20Desai-blue?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parth-desai-2bb1b0160/" style="width:100%" align="center"/></a>
+        <a href="https://www.linkedin.com/in/parth-desai-2bb1b0160/"><img src="https://img.shields.io/badge/-Parth%20Desai-blue?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parth-desai-2bb1b0160/" style="width:100%" align="left"/></a>
       </div>
     </td>
     <td valign="top">
