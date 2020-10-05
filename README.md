@@ -19,9 +19,6 @@ or use it. It helps me a lot.
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 
-
-
-
 - 🌱 I’m currently on a journey to learn Reinforcement learning and Deep neural nets
 
 - 👯 I’m looking to collaborate on any topic related to DataScience or machine learning which excites me
