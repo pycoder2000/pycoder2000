@@ -11,6 +11,7 @@ or use it. It helps me a lot.
 <h3>A Machine Learning Engineer and Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.</h3>
 <i>Please go through my profile and feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Also you can <a href="mailto:desaiparth2000@gmail.com" target="_blank">mail me</a> regarding any issue</i>
 
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>
@@ -32,6 +33,27 @@ or use it. It helps me a lot.
   </ul>
 
 - 📝[Resume](https://drive.google.com/file/d/1Qn4ENgTIQ5C3OUIfUGaqUdGvDDKziDxb/view?usp=sharing)
+
+<table border="0" width="100%" align="center" style="margin: 0px;">
+  <tr>
+    <td valign="top" width = "33%">
+      <div align="center">  
+        <img src = "https://img.shields.io/github/followers/pycoder2000?label=Follow&style=flat-square">
+      </div>
+    </td>
+    <td valign="top">
+      <div align="center" width = "33%">
+        <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+      </div>
+    </td>
+    <td valign="top">
+      <div align="center" width = "33%">
+        <a href="https://www.linkedin.com/in/parth-desai-2bb1b0160/"><img src="https://img.shields.io/badge/-Parth%20Desai-blue?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parth-desai-2bb1b0160/" style="width:100%" align="center"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 <hr>
 
@@ -152,32 +174,8 @@ or use it. It helps me a lot.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=pycoder2000&show_icons=true&theme=radical&line_height=33">
-  <a href="https://samujjwaal.tech/"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/python.png" align="right" height="230" /></a>
+  <a href="https://desaiparth2000.wixsite.com/parthdesai"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/python.png" align="right" height="230" /></a>
 </p>
 
-<!---
-<table border="0" width="100%" align="center" style="margin: 0px;">
-  <tr>
-    <td valign="top">
-      <div align="center">  
-        <img src = "https://img.shields.io/github/followers/pycoder2000?label=Follow&style=flat-square">
-      </div>
-    </td>
-    <td valign="top">
-      <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-      </div>
-    </td>
-    <td valign="top">
-      <div align="center">
-        <a href="https://www.linkedin.com/in/parth-desai-2bb1b0160/"><img src="https://img.shields.io/badge/-Parth%20Desai-blue?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parth-desai-2bb1b0160/" style="width:100%" align="center"/></a>
-      </div>
-    </td>
-    <td valign="top">
-      <div align="center">  
-        <img src = "https://img.shields.io/github/followers/pycoder2000?label=Follow&style=flat-square">
-      </div>
-    </td>
-  </tr>
-</table>
--->
+<img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="30%" height="30%">
+
