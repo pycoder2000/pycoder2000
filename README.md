@@ -2,7 +2,6 @@
 Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <a href="https://desaiparth2000.wixsite.com/parthdesai"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/Annotation%202020-10-05%20202334.png" width="900"></a>
 
@@ -10,8 +9,10 @@ or use it. It helps me a lot.
 <h2>Hi there, this is Parth from India.</h2>
 </div>
 <h3>A Machine Learning Engineer and Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.</h3>
+<i>Please go through my profile and feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</i>
 <div align = "center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+[![Gmail Badge](https://img.shields.io/badge/-jvedant.dev@gmail.com-red?style=social&logo=Gmail&logoColor=blue)](mailto:desaiparth2000@gmail.com)
 </div>
 
 ---
@@ -151,5 +152,5 @@ or use it. It helps me a lot.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=pycoder2000&show_icons=true&theme=radical&line_height=33">
-  <a href="https://samujjwaal.tech/"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/python.png" align="right" height="220" /></a>
+  <a href="https://samujjwaal.tech/"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/python.png" align="right" height="230" /></a>
 </p>
