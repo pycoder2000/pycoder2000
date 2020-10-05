@@ -14,24 +14,24 @@ or use it. It helps me a lot.
 <br>
 <table align = "center">
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="25%">
       <div align="center">  
-        <img src = "https://img.shields.io/github/followers/pycoder2000?label=Follow&style=for-the-badge">
+        <img src = "https://img.shields.io/github/followers/pycoder2000?label=Follow&style=flat-square">
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="25%">
       <div align="center">
         <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="25%">
       <div align="center">
-        <img src = "https://img.shields.io/github/followers/pycoder2000?label=Follow&style=for-the-badge">
+        [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Joshi-blue?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parth-desai-2bb1b0160/)](https://www.linkedin.com/in/parth-desai-2bb1b0160/)
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="25%">
       <div align="center">  
-        <img src = "https://img.shields.io/github/followers/pycoder2000?label=Follow&style=for-the-badge">
+        <img src = "https://img.shields.io/github/followers/pycoder2000?label=Follow&style=flat-square">
       </div>
     </td>
   </tr>
