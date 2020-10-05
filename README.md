@@ -2,6 +2,10 @@
 Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
+<style type = "text/css">
+  .floatRight{float:right;margin-left:20px}
+</style>
+
 <a href="https://desaiparth2000.wixsite.com/parthdesai"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/Annotation%202020-10-05%20202334.png" width="900"></a>
 
 ### Hi there, this is Parth from India.
@@ -86,7 +90,7 @@ or use it. It helps me a lot.
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="40%" height="20%">
 
 <table>
-<IMG src="https://github.com/pycoder2000/pycoder2000/blob/main/images/coffee.png" align=”right”  height="275"/>
+<IMG src="https://github.com/pycoder2000/pycoder2000/blob/main/images/coffee.png" class="floatRight" height="275"/>
 <tr>
 <td><a href="https://linkedin.com/in/https://www.linkedin.com/in/parth-desai-2bb1b0160/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
