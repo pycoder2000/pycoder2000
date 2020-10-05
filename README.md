@@ -9,16 +9,6 @@ or use it. It helps me a lot.
 
 ---
 
-**🔭 i'm Currently working on:**
-
-<code><a href="#" target="_blank"><img height="50" src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"></a></code>
-<code><a href="https://www.https://www.oracle.com/in/java/technologies/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-<code><a href="https://www.spring.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
-<code><a href="https://spring.io/projects/spring-boot" target="_blank"><img height="50" src="https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring"></a></code>
-<code><a href="https://www.mysql.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-
 <img align="right" alt="GIF" src="https://github.com/pycoder2000/pycoder2000/blob/main/images/code.gif" width="500" height="320" />
 
 - 🌱 I’m currently on a journey to learn Reinforcement learning and Deep neural nets and currently working on something cool :wink:;
@@ -35,9 +25,109 @@ or use it. It helps me a lot.
 
 - 📝[Resume](https://drive.google.com/file/d/1Qn4ENgTIQ5C3OUIfUGaqUdGvDDKziDxb/view?usp=sharing)
 
+<hr>
+
+<h2 align="center"> My Skill Set</h2>
+<table><tr><td valign="top" width="33%">
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+</div></td><td valign="top" width="33%">
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
+</div></td><td valign="top" width="33%">
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+</div></td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+
+
+### LinkedIn  
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/parth-desai-2bb1b0160/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://twitter.com/lone_Musk" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://github.com/pycoder2000/?tab=follow" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/https://www.kaggle.com/desaiparth2000" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/highapostrophe/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/https://dev.to/pycoder2000" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/https://medium.com/@desaiparth2000" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+
+<br/>
+
+
+**🔭 i'm Currently working on:**
+
+<code><a href="#" target="_blank"><img height="50" src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"></a></code>
+<code><a href="https://www.https://www.oracle.com/in/java/technologies/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+<code><a href="https://www.spring.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
+<code><a href="https://spring.io/projects/spring-boot" target="_blank"><img height="50" src="https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring"></a></code>
+<code><a href="https://www.mysql.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="40%" height="20%">
 
-<IMG src="https://github.com/pycoder2000/pycoder2000/blob/main/images/coffee.png" align=”right”  height="275"/>[![Linkedin Badge](https://img.shields.io/badge/-Parth%20Desai-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parth-desai-2bb1b0160/)](https://www.linkedin.com/in/parth-desai-2bb1b0160/) [![Twitter Badge](http://img.shields.io/badge/-@lone_Musk-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/lone_Musk)](https://twitter.com/lone_Musk) [![GitHub followers](https://img.shields.io/github/followers/pycoder2000?label=Follow&style=social)](https://github.com/pycoder2000/?tab=follow) [![Kaggle](https://img.shields.io/badge/-Parth%20Desai-blue?style=social&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/desaiparth2000/)](https://www.kaggle.com/desaiparth2000)[![Gmail Badge](https://img.shields.io/badge/-pycoder2000.dev@gmail.com-red?style=social&logo=Gmail&logoColor=blue)](mailto:pycoder2000.dev@gmail.com)
+<IMG src="https://github.com/pycoder2000/pycoder2000/blob/main/images/coffee.png" align=”right”  height="275"/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Parth%20Desai-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parth-desai-2bb1b0160/)](https://www.linkedin.com/in/parth-desai-2bb1b0160/) [![Twitter Badge](http://img.shields.io/badge/-@lone_Musk-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/lone_Musk)](https://twitter.com/lone_Musk) [![GitHub followers](https://img.shields.io/github/followers/pycoder2000?label=Follow&style=social)](https://github.com/pycoder2000/?tab=follow) [![Kaggle](https://img.shields.io/badge/-Parth%20Desai-blue?style=social&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/desaiparth2000/)](https://www.kaggle.com/desaiparth2000)[![Gmail Badge](https://img.shields.io/badge/-pycoder2000.dev@gmail.com-red?style=social&logo=Gmail&logoColor=blue)](mailto:pycoder2000.dev@gmail.com)
 
 ---
 
