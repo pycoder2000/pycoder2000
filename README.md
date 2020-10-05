@@ -11,8 +11,7 @@ or use it. It helps me a lot.
 </div>
 <h3>A Machine Learning Engineer and Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.</h3>
 <div align = "center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="left" />
-<a class="github-button" href="https://github.com/pycoder2000" aria-label="Follow @pycoder2000 on GitHub" align = "right">Follow</a>
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>
 
 ---
