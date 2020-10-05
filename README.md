@@ -128,7 +128,7 @@ or use it. It helps me a lot.
 </tr>
 </table>
 </div>
-<br/>
+<br>
 <hr>
 
 **🔭 i'm Currently working on:**
