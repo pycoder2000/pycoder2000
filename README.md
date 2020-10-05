@@ -10,9 +10,31 @@ or use it. It helps me a lot.
 </div>
 <h3>A Machine Learning Engineer and Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.</h3>
 <i>Please go through my profile and feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Also you can <a href="mailto:desaiparth2000@gmail.com" target="_blank">mail me</a> regarding any issue</i>
-<div align = "center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>
+
+<table>
+  <tr>
+    <td valign="top" width="25%">
+      <div align="center">  
+        <img src = "https://img.shields.io/github/followers/pycoder2000?label=Follow&style=for-the-badge">
+      </div>
+    </td>
+    <td valign="top" width="25%">
+      <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+      </div>
+    </td>
+    <td valign="top" width="25%">
+      <div align="center">
+        <img src = "https://img.shields.io/github/followers/pycoder2000?label=Follow&style=for-the-badge">
+      </div>
+    </td>
+    <td valign="top" width="25%">
+      <div align="center">  
+        <img src = "https://img.shields.io/github/followers/pycoder2000?label=Follow&style=for-the-badge">
+      </div>
+    </td
+  </tr>
+</table>
 
 ---
 
