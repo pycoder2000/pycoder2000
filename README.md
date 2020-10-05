@@ -40,4 +40,5 @@ or use it. It helps me a lot.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=pycoder2000&show_icons=true&theme=radical&line_height=33">
+  <a href="https://samujjwaal.tech/"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/python.png" align="right" height="200" /></a>
 </p>
