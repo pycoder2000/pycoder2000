@@ -12,24 +12,24 @@ or use it. It helps me a lot.
 <i>Please go through my profile and feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. Also you can <a href="mailto:desaiparth2000@gmail.com" target="_blank">mail me</a> regarding any issue</i>
 
 <br>
-<table border="1" width="100%" ID="Table2" style="margin: 0px;">
+<table border="1" width="100%" style="margin: 0px;">
   <tr>
-    <td valign="top" width="25%">
+    <td valign="top">
       <div align="center">  
         <img src = "https://img.shields.io/github/followers/pycoder2000?label=Follow&style=flat-square">
       </div>
     </td>
-    <td valign="top" width="25%">
+    <td valign="top">
       <div align="center">
         <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
       </div>
     </td>
-    <td valign="top" width="25%">
+    <td valign="top">
       <div align="center">
         <a href="https://www.linkedin.com/in/parth-desai-2bb1b0160/"><img src="https://img.shields.io/badge/-Parth%20Desai-blue?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parth-desai-2bb1b0160/" style="width:70%" align="center"/></a>
       </div>
     </td>
-    <td valign="top" width="25%">
+    <td valign="top">
       <div align="center">  
         <img src = "https://img.shields.io/github/followers/pycoder2000?label=Follow&style=flat-square">
       </div>
