@@ -6,7 +6,7 @@ or use it. It helps me a lot.
 <a href="https://desaiparth2000.wixsite.com/parthdesai"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/Annotation%202020-10-05%20202334.png" width="900"></a>
 
 <div align = "center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="right" /><h2>Hi there, this is Parth from India.</h2>
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="right" /><h2>&nbsp;&nbsp;&nbsp;Hi there, this is Parth from India.</h2>
 </div>
 <h3>A Machine Learning Engineer and Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.</h3>
 
