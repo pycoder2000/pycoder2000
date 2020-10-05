@@ -85,31 +85,31 @@ or use it. It helps me a lot.
 
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="40%" height="20%">
 
-<IMG src="https://github.com/pycoder2000/pycoder2000/blob/main/images/coffee.png" align=”right”  height="275"/>
-
-### LinkedIn  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/parth-desai-2bb1b0160/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/https://twitter.com/lone_Musk" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+<br>
 <a href="https://github.com/https://github.com/pycoder2000/?tab=follow" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/https://www.kaggle.com/desaiparth2000" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
+<br>
 <a href="https://instagram.com/https://www.instagram.com/highapostrophe/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/https://dev.to/pycoder2000" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
+<br>
 <a href="https://medium.com/https://medium.com/@desaiparth2000" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-
+</a>
+<IMG src="https://github.com/pycoder2000/pycoder2000/blob/main/images/coffee.png" align=”right”  height="275"/>
 <br/>
 
 
