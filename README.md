@@ -9,7 +9,10 @@ or use it. It helps me a lot.
 <h2>Hi there, this is Parth from India.</h2>
 </div>
 <h3>A Machine Learning Engineer and Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.</h3>
+<div align = "center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>
+
 ---
 
 <img align="right" alt="GIF" src="https://github.com/pycoder2000/pycoder2000/blob/main/images/code.gif" width="500" height="320" />
