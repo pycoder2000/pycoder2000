@@ -30,7 +30,7 @@ or use it. It helps me a lot.
 - ⚡ Fun facts: 
   <ul>
     <li>You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.</li>
-    <li>Besides Programming, I love Public Speaking, I am a hard - core <b>Bibliophile</b></li>
+    <li>Besides Programming, I love Public Speaking and I am a hard - core <b><a href = "https://en.wikipedia.org/wiki/Bibliophilia" target="_blank">Bibliophile</b></li>
   </ul>
 
 - 📝[Resume](https://drive.google.com/file/d/1Qn4ENgTIQ5C3OUIfUGaqUdGvDDKziDxb/view?usp=sharing)
