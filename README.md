@@ -26,8 +26,7 @@ or use it. It helps me a lot.
     </td>
     <td valign="top" width="25%">
       <div align="center">
-        <img src="https://img.shields.io/badge/-Vedant%20Joshi-blue?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parth-desai-2bb1b0160/" align="center" />
-        (https://www.linkedin.com/in/parth-desai-2bb1b0160/)
+        <a href="https://www.linkedin.com/in/parth-desai-2bb1b0160/"><img src="https://img.shields.io/badge/-Parth%20Desai-blue?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parth-desai-2bb1b0160/" style="width:80%" align="center"/></a>
       </div>
     </td>
     <td valign="top" width="25%">
