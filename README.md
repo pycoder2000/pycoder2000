@@ -121,7 +121,7 @@ or use it. It helps me a lot.
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" /></a>
 </a></td>
 <td>
-<a href="https://stackoverflow.com/users/https://dev.to/pycoder2000" target="_blank">
+<a href="https://stackoverflow.com/users/14396497/parth-desai" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 </td>
