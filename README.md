@@ -81,11 +81,11 @@ or use it. It helps me a lot.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 </div></td></tr></table>  
 
-<br/>  
+<hr>
 
+<img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="40%" height="20%">
 
-## Connect with me  
-
+<IMG src="https://github.com/pycoder2000/pycoder2000/blob/main/images/coffee.png" align=”right”  height="275"/>
 
 ### LinkedIn  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/parth-desai-2bb1b0160/" target="_blank">
