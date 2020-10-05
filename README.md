@@ -87,8 +87,7 @@ or use it. It helps me a lot.
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="40%" height="20%">
 <div align = "right">
 <IMG src="https://github.com/pycoder2000/pycoder2000/blob/main/images/coffee.png" height="275"/>
-</div>
-<table>
+<table style="float:right">
 <tr>
 <td><a href="https://www.linkedin.com/in/parth-desai-2bb1b0160/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -128,6 +127,7 @@ or use it. It helps me a lot.
 </td>
 </tr>
 </table>
+</div>
 <br/>
 <hr>
 
