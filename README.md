@@ -34,28 +34,7 @@ or use it. It helps me a lot.
     <li>Besides Programming, I love Public Speaking and I am a hard - core <b><a href = "https://en.wikipedia.org/wiki/Bibliophilia" target="_blank">Bibliophile</b></li>
   </ul>
 
-- 📝[Resume](https://drive.google.com/file/d/1Qn4ENgTIQ5C3OUIfUGaqUdGvDDKziDxb/view?usp=sharing)
-
-<table border="0" width="100%" align="center" style="margin: 0px;">
-  <tr>
-    <td valign="top" width = "33%">
-      <div align="center">  
-        <img src = "https://img.shields.io/github/followers/pycoder2000?label=Follow&style=flat-square">
-      </div>
-    </td>
-    <td valign="top">
-      <div align="center" width = "33%">
-        <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-      </div>
-    </td>
-    <td valign="top">
-      <div align="center" width = "33%">
-        <a href="https://www.linkedin.com/in/parth-desai-2bb1b0160/"><img src="https://img.shields.io/badge/-Parth%20Desai-blue?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parth-desai-2bb1b0160/" style="width:100%" align="center"/></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
+- 📝[Resume](https://drive.google.com/file/d/1Qn4ENgTIQ5C3OUIfUGaqUdGvDDKziDxb/view?usp=sharing) / 👨‍💻 [Website](https://desaiparth2000.wixsite.com/parthdesai)
 
 <hr>
 
