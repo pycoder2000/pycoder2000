@@ -20,6 +20,8 @@ or use it. It helps me a lot.
 
 <img align="right" alt="GIF" src="https://github.com/pycoder2000/pycoder2000/blob/main/images/code.gif" width="500" height="320" />
 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
+
 - 🌱 I’m currently on a journey to learn Reinforcement learning and Deep neural nets and currently working on something cool
 
 - 👯 I’m looking to collaborate on any topic related to Data Science or Machine Learning which draws my interest
