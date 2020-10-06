@@ -41,7 +41,7 @@ or use it. It helps me a lot.
 <h2 align="center"> My Skill Set</h2>
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+<h3 align="center"> Frontend</h3>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
