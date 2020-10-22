@@ -1,7 +1,7 @@
 <!---
 Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
---> 
+-->
 
 <head>
 <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap" rel="stylesheet">
@@ -32,7 +32,7 @@ or use it. It helps me a lot.
 
 - 💬 Ask me about anything, I am happy to help;
 
-- ⚡ Fun facts: 
+- ⚡ Fun facts :
   <ul>
     <li>You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.</li>
     <li>Besides Programming, I love Public Speaking and I am a hard - core <b><a href = "https://en.wikipedia.org/wiki/Bibliophilia" target="_blank">Bibliophile</b></li>
@@ -161,7 +161,10 @@ or use it. It helps me a lot.
   <img src = "https://github-readme-stats.vercel.app/api?username=pycoder2000&show_icons=true&theme=radical&line_height=33">
   <a href="https://desaiparth2000.wixsite.com/parthdesai"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/python.png" align="right" height="230" /></a>
 </p>
-<p align = "center"><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pycoder2000&hide_langs_below=.25&theme=radical"></p>
+
+<div align = "center">
+<p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pycoder2000&hide_langs_below=.25&theme=radical"></p>
+</div>
 
 <div align = "center">
 <img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="10%" height="10%">
