@@ -13,7 +13,7 @@ or use it. It helps me a lot.
 <h2>Hi there, this is Parth from India.</h2>
 </div>
 <h3 style:"font-family: 'Titillium Web', sans-serif;">A Machine Learning Engineer and Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.</h3>
-<i>Please go through my profile and feel free to clone/fork [projects](https://octoprofile.now.sh/user?id=pycoder2000), raise issues and submit PRs if you think something could be better. Also you can <a href="mailto:desaiparth2000@gmail.com" target="_blank">mail me</a> regarding any issue</i>
+<i>Please go through my profile and feel free to clone/fork <a href="https://octoprofile.now.sh/user?id=pycoder2000">projects</a>, raise issues and submit PRs if you think something could be better. Also you can <a href="mailto:desaiparth2000@gmail.com" target="_blank">mail me</a> regarding any issue</i>
 
 <br>
 <div align="center">
