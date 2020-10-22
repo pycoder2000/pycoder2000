@@ -159,9 +159,9 @@ or use it. It helps me a lot.
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=pycoder2000&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pycoder2000&hide_langs_below=.25&theme=radical">
   <a href="https://desaiparth2000.wixsite.com/parthdesai"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/python.png" align="right" height="230" /></a>
 </p>
+<p align = "center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pycoder2000&hide_langs_below=.25&theme=radical"></p>
 
 <div align = "center">
 <img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="10%" height="10%">
