@@ -7,7 +7,7 @@ or use it. It helps me a lot.
 <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap" rel="stylesheet">
 </head>
 
-<a href="https://pycoder2000.github.io/"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/Annotation%202020-10-05%20202334.png" width="900"></a>
+<a href="https://parthdesai.vercel.app/"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/Annotation%202020-10-05%20202334.png" width="900"></a>
 
 <div align = "center">
 <h2>Hi there, this is Parth from India.</h2>
@@ -38,7 +38,7 @@ or use it. It helps me a lot.
     <li>Besides Programming, I love Public Speaking and I am a hard - core <b><a href = "https://en.wikipedia.org/wiki/Bibliophilia" target="_blank">Bibliophile</b></li>
   </ul>
 
-- 📝[Resume](https://drive.google.com/file/d/1dVrOdsterRRlxiTCeLGtks8FjHMY9ly_/view?usp=sharing) / 👨‍💻 [Website](https://pycoder2000.github.io/)
+- 📝[Resume](https://drive.google.com/file/d/1dVrOdsterRRlxiTCeLGtks8FjHMY9ly_/view?usp=sharing) / 👨‍💻 [Website](https://parthdesai.vercel.app/)
 
 <hr>
 
