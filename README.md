@@ -38,7 +38,7 @@ or use it. It helps me a lot.
     <li>Besides Programming, I love Public Speaking and I am a hard - core <b><a href = "https://en.wikipedia.org/wiki/Bibliophilia" target="_blank">Bibliophile</b></li>
   </ul>
 
-- 📝[Resume](https://drive.google.com/file/d/1dVrOdsterRRlxiTCeLGtks8FjHMY9ly_/view?usp=sharing) / 👨‍💻 [Website](https://parthdesai.vercel.app/)
+- 📝[Resume](https://github.com/pycoder2000/Portfolio-Resume/blob/main/resume.pdf) / 👨‍💻 [Website](https://parthdesai.vercel.app/)
 
 <hr>
 
