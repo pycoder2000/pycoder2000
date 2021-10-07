@@ -129,7 +129,7 @@ or use it. It helps me a lot.
 </tr>
 <tr>
 <td>
-<a href="https://medium.com/https://medium.com/@desaiparth2000" target="_blank">
+<a href="https://medium.com/@desaiparth2000" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" /></a>
 </a></td>
 <td>
