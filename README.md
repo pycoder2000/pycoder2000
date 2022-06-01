@@ -24,7 +24,7 @@ or use it. It helps me a lot.
 
 <img align="right" alt="GIF" src="https://github.com/pycoder2000/pycoder2000/blob/main/images/code.gif" width="500" height="320" />
 
-## Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
+## Hello world!
 
 - 🌱 I’m currently on a journey to learn Apache Spark and Deep neural nets and currently working on something cool
 
