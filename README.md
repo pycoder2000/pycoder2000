@@ -11,13 +11,10 @@ or use it. It helps me a lot.
 
 <div align = "center">
   
-<a href="https://parthdesai.vercel.app/"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/Header.png" width="900"></a>
+<a href="https://parthdesai.vercel.app/"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/Header.png"></a>
 
 </div>  
-  
-<div align = "center">
-<h2>Hi there, this is Parth from India.</h2>
-</div>
+
 <h3 style:"font-family: 'Titillium Web', sans-serif;">A Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.</h3>
 <i>Please go through my profile and feel free to clone/fork <a href="https://octoprofile.now.sh/user?id=pycoder2000">projects</a>, raise issues and submit PRs if you think something could be better. Also you can <a href="mailto:desaiparth2000@gmail.com" target="_blank">mail me</a> regarding any issue</i>
 
