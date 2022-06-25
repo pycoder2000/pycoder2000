@@ -4,11 +4,17 @@ or use it. It helps me a lot.
 -->
 
 <head>
+
 <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap" rel="stylesheet">
+
 </head>
 
+<div align = "center">
+  
 <a href="https://parthdesai.vercel.app/"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/Annotation%202020-10-05%20202334.png" width="900"></a>
 
+</div>  
+  
 <div align = "center">
 <h2>Hi there, this is Parth from India.</h2>
 </div>
@@ -38,8 +44,12 @@ or use it. It helps me a lot.
     <li>Besides Programming, I love Public Speaking and I am a hard - core <b><a href = "https://en.wikipedia.org/wiki/Bibliophilia" target="_blank">Bibliophile</b></li>
   </ul>
 
-- 📝[Resume](https://github.com/pycoder2000/Portfolio-Resume/blob/main/resume.pdf) / 👨‍💻 [Website](https://parthdesai.vercel.app/)
+<div align="center">
+ 
+📝[Resume](https://github.com/pycoder2000/Portfolio-Resume/blob/main/resume.pdf) | 👨‍💻 [Website](https://parthdesai.vercel.app/) | ✍️ [Blog](https://musing.vercel.app)
 
+</div>
+  
 <hr>
 
 <h2 align="center"> My Skill Set</h2>
@@ -137,13 +147,16 @@ or use it. It helps me a lot.
 
 ## On a goal to maximize my contribution on OpenSource
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pycoder2000&show_icons=true&theme=solarized-dark&line_height=33">
-  <a href="https://pycoder2000.github.io/"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/python.png" align="right" height="230" /></a>
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pycoder2000&hide_langs_below=.25&theme=solarized-dark&card_width=496&hide_border=true">
-
 <div align = "center">
-<img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="15%" height="15%">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pycoder2000&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</div>
+<br/>
+<div align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pycoder2000&hide_langs_below=.25&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</div>
+
+<div align="center">
+
+<a href="https://pycoder2000.github.io/"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/python.png" height="230"></a>
+
 </div>
