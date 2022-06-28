@@ -18,10 +18,17 @@ https://user-images.githubusercontent.com/68416104/175790006-e70fa227-6e13-4212-
 <h3 style:"font-family: 'Titillium Web', sans-serif;">A Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.</h3>
 <i>Please go through my profile and feel free to clone/fork <a href="https://octoprofile.now.sh/user?id=pycoder2000">projects</a>, raise issues and submit PRs if you think something could be better. Also you can <a href="mailto:desaiparth2000@gmail.com" target="_blank">mail me</a> regarding any issue</i>
 
-<br>
+<br />
+<br />
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pycoder2000&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=pycoder2000&&style=for-the-badge" align="center" />
 </div>
+
+---
+## Latest posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
