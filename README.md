@@ -26,11 +26,6 @@ https://user-images.githubusercontent.com/68416104/175790006-e70fa227-6e13-4212-
 </div>
 
 ---
-## Latest posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <img align="right" alt="GIF" src="https://github.com/pycoder2000/pycoder2000/blob/main/images/code.gif" width="500" height="320" />
 
