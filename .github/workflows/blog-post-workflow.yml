@@ -1,17 +1,17 @@
-name: Lates blog flows
+name: Generate Blog List
 on:
   push:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */1 * * *"
 jobs:
   run:
     runs-on: ubuntu-latest
-    name: Update the example on the README
+    name: Fetch and Generate Blog Posts
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Generate
-        uses: ./
+      - name: GitHub Readme Blog Post Action
+        uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
           feed_urls: "https://musing.vercel.app/feed.xml"
           max_posts_per_url: 5
