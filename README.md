@@ -27,6 +27,7 @@ https://user-images.githubusercontent.com/68416104/175790006-e70fa227-6e13-4212-
 
 ---
 ## Latest posts
+
 <!-- blog-post-list:start -->
 <!-- blog-post-list:end -->
 
