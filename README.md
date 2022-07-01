@@ -28,6 +28,9 @@ https://user-images.githubusercontent.com/68416104/175790006-e70fa227-6e13-4212-
 ---
 ## Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple doesn&#39;t care about privacy, and it&#39;s showing.](https://musing.vercel.app/blog/Apple-Privacy)
+- [WWDC 2022 Wishlist](https://musing.vercel.app/blog/WWDC22)
+- [Apple and the case for competition.](https://musing.vercel.app/blog/Apple-Competition)
 <!-- BLOG-POST-LIST:END -->
 
 ---
