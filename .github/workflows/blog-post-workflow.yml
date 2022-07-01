@@ -1,16 +1,26 @@
-name: Latest blog post workflow
+name: Lates blog flows
 on:
-  schedule: # Run workflow automatically
-    - cron: "0 * * * *" # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-
+  push:
+  schedule:
+    - cron: "0 */6 * * *"
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  run:
     runs-on: ubuntu-latest
+    name: Update the example on the README
     steps:
-        uses: actions/checkout@v2
-        uses: gautamkrishnar/blog-post-workflow@1.7.4
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Generate
+        uses: ./
         with:
-          max_post_count: "4"
-          feed_list: "https://musing.vercel.app/feed.xml"
+          feed_urls: "https://musing.vercel.app/feed.xml"
+          max_posts_per_url: 5
+          position_indicator: "post-list"
+          locale: "en-US"
+          time_zone: "America/Denver"
+          output_dir: "generated_files"
+      - name: Commit changed files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Save generated content
+          skip_checkout: true
