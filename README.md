@@ -9,30 +9,14 @@ or use it. It helps me a lot.
 
 </head>
 
-<div align = "center">
-  
-https://user-images.githubusercontent.com/68416104/175790006-e70fa227-6e13-4212-b336-dda53ada9f28.mp4
-
-</div>  
-
 <h3 style:"font-family: 'Titillium Web', sans-serif;">A Data-Science enthusiast who is passionate about Mathematics, Pythonic programming, and open source. I love to learn and contribute in any and every possible way.</h3>
 <i>Please go through my profile and feel free to clone/fork <a href="https://octoprofile.now.sh/user?id=pycoder2000">projects</a>, raise issues and submit PRs if you think something could be better. Also you can <a href="mailto:desaiparth2000@gmail.com" target="_blank">mail me</a> regarding any issue</i>
 
-<br />
 <br />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pycoder2000&&style=for-the-badge" align="center" />
 </div>
-
----
-## Latest posts
-<!-- BLOG-POST-LIST:START -->
-- [How to get the Spotify Refresh Token](https://musing.vercel.app/blog/spotify-refresh-token)
-- [Apple doesn&#39;t care about privacy, and it&#39;s showing.](https://musing.vercel.app/blog/Apple-Privacy)
-- [WWDC 2022 Wishlist](https://musing.vercel.app/blog/WWDC22)
-- [Apple and the case for competition.](https://musing.vercel.app/blog/Apple-Competition)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -51,53 +35,6 @@ https://user-images.githubusercontent.com/68416104/175790006-e70fa227-6e13-4212-
     <li>You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.</li>
     <li>Besides Programming, I love Public Speaking and I am a hard - core <b><a href = "https://en.wikipedia.org/wiki/Bibliophilia" target="_blank">Bibliophile</b></li>
   </ul>
-
-<div align="center">
- 
-📝[Resume](https://github.com/pycoder2000/Portfolio-Resume/blob/main/resume.pdf) | 👨‍💻 [Website](https://parthdesai.vercel.app/) | ✍️ [Blog](https://musing.vercel.app)
-
-</div>
-  
-<hr>
-
-<h2 align="center"> My Skill Set</h2>
-<table><tr><td valign="top" width="33%">
-
-<h3 align="center"> Frontend</h3>
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-</div></td><td valign="top" width="33%">
-
-<h3 align="center"> Backend</h3>
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
-</div></td><td valign="top" width="33%">
-
-<h3 align="center">DevOps</h3>
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-</div></td></tr></table>  
 
 <hr>
 <div>
@@ -161,10 +98,4 @@ https://user-images.githubusercontent.com/68416104/175790006-e70fa227-6e13-4212-
 <br/>
 <div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pycoder2000&hide_langs_below=.25&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</div>
-
-<div align="center">
-
-<a href="https://pycoder2000.github.io/"><img src="https://github.com/pycoder2000/pycoder2000/blob/main/images/python.png" height="230"></a>
-
 </div>
