@@ -81,21 +81,3 @@ or use it. It helps me a lot.
 </table>
 </div>
 <br>
-<hr>
-
-**🔭 i'm Currently working on:**
-
-<code><a href="#" target="_blank"><img height="50" src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
----
-
-## On a goal to maximize my contribution on OpenSource
-
-<div align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pycoder2000&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</div>
-<br/>
-<div align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pycoder2000&hide_langs_below=.25&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</div>
