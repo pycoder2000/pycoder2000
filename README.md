@@ -40,10 +40,10 @@ or use it. It helps me a lot.
 <div>
 <table style="float:right">
 <tr>
-<td><a href="https://www.linkedin.com/in/parth-desai-2bb1b0160/" target="_blank">
+<td><a href="https://www.linkedin.com/in/desaiparth2000/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a></td>
-<td><a href="https://twitter.com/lone_Musk" target="_blank">
+<td><a href="https://twitter.com/_ParthDesai_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a></td>
 </tr>
