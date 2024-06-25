@@ -38,7 +38,6 @@ or use it. It helps me a lot.
 
 <hr>
 <div>
-<IMG src="https://github.com/pycoder2000/pycoder2000/blob/main/images/coffee.png" align = "right" height="315"/>
 <table style="float:right">
 <tr>
 <td><a href="https://www.linkedin.com/in/parth-desai-2bb1b0160/" target="_blank">
